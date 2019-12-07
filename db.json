@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Memoria RAM DDR4 8GB",
+      "marca": "Kingston",
+      "precio": 2500,
+      "modelo": "0X2548754",
+      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
+      "desc": "Memoria RAM para Notebooks DDR4 de 8GB. 1 Año de garantía."
+    },
+    {
+      "id": 2,
+      "nombre": "Placa Video Geforce GTX 1050",
+      "marca": "Intel",
+      "precio": 5000,
+      "modelo": "0X2548754",
+      "img": "Https://algunaurl.com/imagenDelProducto.jpg",
+      "desc": "Descripción del producto"
+    }
+   ],
+   "servicios": [
+      {
+        "id": 1,
+        "nombre": "Reparación Notebook",
+        "precio": 2200,
+        "img": "Https://algunaurl.com/imagenDelServicio.jpg",
+        "desc": "Reparación íntegra de notebooks (Hard y Soft)"
+      },
+      {
+        "id": 2,
+        "nombre": "Reparación PC",
+        "precio": 1500,
+        "img": "Https://algunaurl.com/imagenDelServicio.jpg",
+        "desc": "Reparación íntegra de PC (Hard y Soft)"
+      }
+   ],
+   "posts": [
+       {
+          "id": 1,
+          "title": "Post 1"
+       },
+       {
+          "id": 2,
+          "title": "Post 2"
+       },
+       {
+          "id": 3,
+          "title": "Post 3"
+       }
+     ]
+}
